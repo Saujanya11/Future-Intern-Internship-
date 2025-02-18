@@ -6,6 +6,8 @@
 
 Task 1 – Rock, Paper, Scissors Game (✔️ Completed on 2025-02-17)
 
+Task 2 - Tic Tac Toe Game (✔️ Completed on 2025-02-18)
+
 
 (More tasks will be added daily...)
 
