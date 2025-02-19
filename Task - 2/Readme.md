@@ -52,5 +52,3 @@ java TicTacToe
 
 ### 🔗 Connect with Me  
 💬 Let me know your thoughts and suggestions in the comments!  
-
-#Java #TicTacToe #GameDevelopment #Coding #GitHub #Programming
